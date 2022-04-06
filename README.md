@@ -1,6 +1,6 @@
 # Chemotherapeutants
 ## Title: Changes in Lake Sturgeon Gut Microbiomes Relative to Founding Origin and in Response to Chemotherapeutant Treatments
-Authors: Shairah Abdul Razak, John Bauman, Terence Marsh, Kim Scribner \  
+Authors: Shairah Abdul Razak, John Bauman, Terence Marsh, Kim Scribner   
 Journal name: Microorganisms \
 Manuscript ID: microorganisms-1688442
 
